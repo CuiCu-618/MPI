@@ -1,3 +1,22 @@
+/**
+ * @file main.cpp
+ * @author Cui Cu
+ *
+ * @brief Learn MPI, also test doxygen
+ *
+ * test \f$ \LaTeX \f$ : \n
+ * \f$ \alpha + \beta \f$ \n
+ *
+ *  test list : \n
+ *  -1st
+ *  -2nd
+ *  -3rd
+ */
+
+
+
+
+
 #include <iostream>
 #include "mpi.h"
 
