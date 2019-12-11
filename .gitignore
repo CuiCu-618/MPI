@@ -12,3 +12,7 @@
 .idea/vcs.xml
 .idea/vcs.xml
 .idea/vcs.xml
+*.log
+.idea/workspace.xml
+Doc/html/formula.repository
+.idea/workspace.xml
