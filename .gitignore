@@ -3,3 +3,12 @@
 *.html
 *.js
 *.css
+*.xml
+.DS_Store
+*.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/vcs.xml
+.idea/vcs.xml
