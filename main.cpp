@@ -7,10 +7,10 @@
  * test \f$ \LaTeX \f$ : \n
  * \f$ \alpha + \beta \f$ \n
  *
- *  test list : \n
- *  -1st
- *  -2nd
- *  -3rd
+ *  test list :
+ *  - 1st;
+ *  - 2nd;
+ *  - 3rd;
  */
 
 
